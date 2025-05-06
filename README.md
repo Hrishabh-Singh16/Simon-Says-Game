@@ -44,23 +44,23 @@ cd Simon-Says-Game
 
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. For significant changes, kindly open an issue first to discuss your ideas.
-- ### Fork the Project
-- ### Create a Feature Branch:
+-  Fork the Project
+-  Create a Feature Branch:
 ```bash
 git checkout -b feature/AmazingFeature
 
 ```
-- ### Commit Your Changes:
+-  Commit Your Changes:
 ```bash
 git commit -m 'Add some AmazingFeature'
 
 ```
-- ### Push to the Branch:
+-  Push to the Branch:
 ```bash
 git push origin feature/AmazingFeature
 
 ```
-- ### Open a Pull Request
+- Open a Pull Request
 
 
 
